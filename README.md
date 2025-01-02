@@ -9,7 +9,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there　<img src="https://komarev.com/ghpvc/?username=MiUPa" />
 
 - 🧑‍💻 I'm a system engineer.
-- 🌱 I’m currently learning go!
 <!--- 📫 How to reach me: [Twitter - @username](https://twitter.com/username) -->
 <br>
 
