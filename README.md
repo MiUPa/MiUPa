@@ -8,9 +8,12 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there　<img src="https://komarev.com/ghpvc/?username=MiUPa" />
 
-- 作ったもの　https://miupa.jp/
+- ハードボイルドな辞表を作ってくれる　https://resignation.miupa.jp/
+- 「答え」じゃなく「考え方」を教えてくれる家庭教師　https://www.ai-katekyo.com/
+- 自分の知らないレストランと出会える　https://goulette.miupa.jp/
 - メルカリShops宛名ラベル作成ツール　https://mercari-print.miupa.jp/
 - 絵心チェッカー　https://miupa.jp/projects/egokoroChecker/
+- 投資先を決めてくれる　https://invest-coach.miupa.jp/
 <!--- 📫 How to reach me: [Twitter - @username](https://twitter.com/username) -->
 <br>
 
